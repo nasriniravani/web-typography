@@ -1,0 +1,36 @@
+/* Place CSS styles here */
+h1 {
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Shadows Into Light', cursive;
+	color: cyan;
+	text-shadow: 1px 1px 1px #000, 2px 2px 3px black;
+	line-height: 10px;
+	padding-bottom: 30px;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Josefin Sans', sans-serif;
+	color: darkcyan;
+	text-shadow: 1px 1px 1px #000, 3px 3px 3px grey;
+	line-height: 10px;
+	padding-bottom: 20px;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	color: white;
+	text-shadow: 1px 1px 1px #000, 2px 2px 5px black;
+	line-height: 10px;
+	padding-bottom: 10px;
+}
+
+.light-picture {
+	background-image: url("../img/light-bkg.jpg");
+	background-size: cover;
+	background-position: center center;
+	padding-top: 1px;
+}
