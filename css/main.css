@@ -28,27 +28,32 @@ h3 {
 	padding-bottom: 10px;
 }
 
-.kitkat-intro-image {
-	width: 200px;
+.hope-intro-image {
+	width: 100px;
+	background-position: center center;
   }
   
-  .kitkat-intro-paragraph {
+  .hope-intro-paragraph {
+	text-transform: uppercase;
+	color: white;
+	font-family: 'Kanit', sans-serif;
+	font-weight: 100;
+	font-size: 60px;
+  }
+  .hope-intro-paragraph-no {
+	text-transform: lowercase;
 	font-size: 1.5rem;
+	color: palevioletred;
+	font-size: 40px;
 	margin-top: 0;
   }
-  .kitkat-intro-paragraph-no {
-	text-transform: uppercase;
-	color: #e94a4a;
-	font-family: 'Kanit', sans-serif;
-	font-weight: 700;
-	font-size: 80px;
-  }
-  .kitkat-intro-paragraph-drinking {
+
+  .hope-intro-paragraph-drinking {
 	font-family: 'Lobster', cursive;
   }
 
 .light-picture {
-	background-image: url("../img/light-bkg.jpg");
+	background-image: url("../img/wallpaper.jpg");
 	background-size: cover;
 	background-position: center center;
 	padding-top: 1px;
