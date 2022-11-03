@@ -30,9 +30,9 @@ h3 {
 
 .hope-intro-image {
 	width: 100px;
-	background-position: center center;
+	text-align: center;
   }
-  
+
   .hope-intro-paragraph {
 	text-transform: uppercase;
 	color: white;
@@ -44,7 +44,7 @@ h3 {
 	text-transform: lowercase;
 	font-size: 1.5rem;
 	color: palevioletred;
-	font-size: 40px;
+	font-size: 60px;
 	margin-top: 0;
   }
 
