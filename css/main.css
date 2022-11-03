@@ -29,7 +29,11 @@ h3 {
 }
 
 .hope-intro-image {
-	width: 100px;
+	width: 500px;
+	text-align: center;
+  }
+
+  .hope-intro-container {
 	text-align: center;
   }
 
